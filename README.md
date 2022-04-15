@@ -1,2 +1,2 @@
-# Awwwards
+# AAWARDS
 
