@@ -19,7 +19,7 @@
   # Cloning
   In your terminal:
 
-    $ git clone 
+    $ git clone https://github.com/MARTIN-OMOLLO/awards.git
     $ cd GALLERY
 
   # Running the Application
