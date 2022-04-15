@@ -4,7 +4,7 @@
   
 
   ## Authors
-  - [Martin Omollo](https://github.com/MARTIN-OMOLLO/INSTAGRAM.git)
+  - [Martin Omollo]
   
 
 
