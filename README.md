@@ -19,7 +19,7 @@
   # Cloning
   In your terminal:
 
-    $ git clone https://github.com/MARTIN-OMOLLO/INSTAGRAM.git
+    $ git clone 
     $ cd GALLERY
 
   # Running the Application
