@@ -20,7 +20,7 @@
   In your terminal:
 
     $ git clone https://github.com/MARTIN-OMOLLO/awards.git
-    $ cd GALLERY
+    $ cd awards
 
   # Running the Application
   To run the application, in your terminal:
